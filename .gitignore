@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Model cache
+.easyocr/
+torch_cache/
+
+# Temporary files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
